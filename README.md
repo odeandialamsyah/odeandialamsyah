@@ -75,7 +75,7 @@
 
 ### 🎵 Spotify Now Playing  
 <p align="center">
-  <img src="https://novatorem-odeandialamsyah.vercel.app/api/spotify" alt="Spotify Now Playing" width="400px">
+  <img src="https://open.spotify.com/track/5WOSNVChcadlsCRiqXE45K?si=e00bd8cc83a84ba9" alt="Spotify Now Playing" width="400px">
 </p>
 
 ---
